@@ -1,0 +1,12 @@
+C:\Users\mariia.vasylchenko\source\repos\SuggestionApp\SuggestionLibrary\bin\Debug\net6.0\SuggestionLibrary.deps.json
+C:\Users\mariia.vasylchenko\source\repos\SuggestionApp\SuggestionLibrary\bin\Debug\net6.0\SuggestionLibrary.dll
+C:\Users\mariia.vasylchenko\source\repos\SuggestionApp\SuggestionLibrary\bin\Debug\net6.0\SuggestionLibrary.pdb
+C:\Users\mariia.vasylchenko\source\repos\SuggestionApp\SuggestionLibrary\obj\Debug\net6.0\SuggestionLibrary.csproj.AssemblyReference.cache
+C:\Users\mariia.vasylchenko\source\repos\SuggestionApp\SuggestionLibrary\obj\Debug\net6.0\SuggestionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariia.vasylchenko\source\repos\SuggestionApp\SuggestionLibrary\obj\Debug\net6.0\SuggestionLibrary.AssemblyInfoInputs.cache
+C:\Users\mariia.vasylchenko\source\repos\SuggestionApp\SuggestionLibrary\obj\Debug\net6.0\SuggestionLibrary.AssemblyInfo.cs
+C:\Users\mariia.vasylchenko\source\repos\SuggestionApp\SuggestionLibrary\obj\Debug\net6.0\SuggestionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mariia.vasylchenko\source\repos\SuggestionApp\SuggestionLibrary\obj\Debug\net6.0\SuggestionLibrary.dll
+C:\Users\mariia.vasylchenko\source\repos\SuggestionApp\SuggestionLibrary\obj\Debug\net6.0\refint\SuggestionLibrary.dll
+C:\Users\mariia.vasylchenko\source\repos\SuggestionApp\SuggestionLibrary\obj\Debug\net6.0\SuggestionLibrary.pdb
+C:\Users\mariia.vasylchenko\source\repos\SuggestionApp\SuggestionLibrary\obj\Debug\net6.0\ref\SuggestionLibrary.dll
